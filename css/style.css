@@ -1,5 +1,6 @@
 /* Created by: kyle.matthew.magnaye
  * Created on: Feb 2025
+
  * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */
 
@@ -10,10 +11,11 @@ body {
 h1 {
   background-color: rgb(90, 162, 218);
   color: hsl(62, 81%, 46%);
+
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: rgb(98, 5, 81);
+  background-color: #f0f;
 }
